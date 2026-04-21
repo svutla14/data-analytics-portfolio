@@ -4,7 +4,7 @@
 Analyze sales data to understand revenue trends, top products, and customer behavior.
 
 ## Tools Used
-- SQL
+- SQL (joins, aggregations, group by, filtering)
 
 ## Dataset
 E-commerce sales dataset (from Kaggle or public dataset)
@@ -25,3 +25,8 @@ E-commerce sales dataset (from Kaggle or public dataset)
 - Focus marketing on top-performing products
 - Improve inventory planning for peak months
 - Target high-value customers for retention
+
+## How to Run
+1. Import dataset into SQL database
+2. Run queries from analysis.sql
+3. Analyze outputs for business insights
