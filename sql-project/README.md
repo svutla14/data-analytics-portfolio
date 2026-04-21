@@ -1,7 +1,8 @@
-# E-commerce Sales Analysis (SQL Project)
+## Project Title
+Inventory & Product Analysis using SQL
 
 ## Objective
-Analyze sales data to understand revenue trends, top products, and customer behavior.
+Analyze product inventory to understand category distribution, stock levels, and product attributes.
 
 ## Tools Used
 - SQL (joins, aggregations, group by, filtering)
@@ -10,16 +11,17 @@ Analyze sales data to understand revenue trends, top products, and customer beha
 E-commerce sales dataset (from Kaggle or public dataset)
 
 ## Key Analysis Performed
-- Total revenue calculation
-- Top 5 best-selling products
-- Monthly sales trends
-- High-value customers
-- Country-wise sales distribution
+- Analyzed inventory structure to understand product distribution across categories
+- Identified stock imbalances to support inventory optimization decisions
+- Evaluated product attributes (size, color) to understand demand patterns
+- Performed SKU-level analysis to detect overstock and potential wastage
+- Derived insights to support supply chain and retail inventory planning
 
 ## Key Insights
-- A small number of products generate majority of revenue
-- Sales peak during specific months
-- Certain customers contribute significantly to revenue
+- Certain categories dominate inventory
+- Stock levels vary significantly across SKUs
+- Some sizes/colors are overrepresented in inventory
+- Helps optimize stock planning decisions
 
 ## Business Recommendations
 - Focus marketing on top-performing products
